@@ -1,0 +1,12 @@
+c:\users\samet kartal\documents\visual studio 2015\Projects\CSharp ve Arduino Bitirme Projesi\CSharp ve Arduino Bitirme Projesi\bin\Debug\CSharp ve Arduino Bitirme Projesi.exe.config
+c:\users\samet kartal\documents\visual studio 2015\Projects\CSharp ve Arduino Bitirme Projesi\CSharp ve Arduino Bitirme Projesi\bin\Debug\CSharp ve Arduino Bitirme Projesi.exe
+c:\users\samet kartal\documents\visual studio 2015\Projects\CSharp ve Arduino Bitirme Projesi\CSharp ve Arduino Bitirme Projesi\bin\Debug\CSharp ve Arduino Bitirme Projesi.pdb
+c:\users\samet kartal\documents\visual studio 2015\Projects\CSharp ve Arduino Bitirme Projesi\CSharp ve Arduino Bitirme Projesi\obj\Debug\CSharp ve Arduino Bitirme Projesi.csprojResolveAssemblyReference.cache
+c:\users\samet kartal\documents\visual studio 2015\Projects\CSharp ve Arduino Bitirme Projesi\CSharp ve Arduino Bitirme Projesi\obj\Debug\CSharp_ve_Arduino_Bitirme_Projesi.Form1.resources
+c:\users\samet kartal\documents\visual studio 2015\Projects\CSharp ve Arduino Bitirme Projesi\CSharp ve Arduino Bitirme Projesi\obj\Debug\CSharp_ve_Arduino_Bitirme_Projesi.Properties.Resources.resources
+c:\users\samet kartal\documents\visual studio 2015\Projects\CSharp ve Arduino Bitirme Projesi\CSharp ve Arduino Bitirme Projesi\obj\Debug\CSharp ve Arduino Bitirme Projesi.csproj.GenerateResource.Cache
+c:\users\samet kartal\documents\visual studio 2015\Projects\CSharp ve Arduino Bitirme Projesi\CSharp ve Arduino Bitirme Projesi\obj\Debug\CSharp ve Arduino Bitirme Projesi.exe
+c:\users\samet kartal\documents\visual studio 2015\Projects\CSharp ve Arduino Bitirme Projesi\CSharp ve Arduino Bitirme Projesi\obj\Debug\CSharp ve Arduino Bitirme Projesi.pdb
+C:\Users\Aldemir\Desktop\Çiçek Sulama\CSharp ve Arduino Bitirme Projesi\bin\Debug\CSharp ve Arduino Bitirme Projesi.exe.config
+C:\Users\Aldemir\Desktop\Çiçek Sulama\CSharp ve Arduino Bitirme Projesi\obj\Debug\CSharp ve Arduino Bitirme Projesi.exe
+C:\Users\Aldemir\Desktop\Çiçek Sulama\CSharp ve Arduino Bitirme Projesi\obj\Debug\CSharp ve Arduino Bitirme Projesi.pdb
